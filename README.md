@@ -4,20 +4,20 @@ Trabalho desenvolvido durante a disciplina de BD
 #Sumário
 
 ###1	COMPONENTES<br>
-Integrantes do grupo<br>
+Brenda Trindade e Danielle Trindade<br>
 
 ###2	INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
+Rotas ES: O Espirito Santo é rico em cultura e pontos turisticos com climas que agradão a todos os gostos. Porém não é muito reconhecido por turistas de todo o mundo pela falta de divulgação do Estado.<br>
 
 ###3	MINI-MUNDO<br>
-Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
+   -------------------------------------------------------------------------------------------------------------------------------- <br>
 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
 Sugestão: https://balsamiq.com/products/mockups/<br>
 
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
+![Alt text](http://i.imgur.com/6vEqlZz.png?raw=true "Title")
 
 
 ###5	MODELO CONCEITUAL<br>
